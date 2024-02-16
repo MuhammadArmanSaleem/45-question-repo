@@ -1,7 +1,7 @@
 #Name:Arman Saleem
 #Roll No:00304671
 #City:karachi
-#Days/time: Tuesday - 09:00 AM - 12:00 PM
+#Days/time: cdTuesday - 09:00 AM - 12:00 PM
 #exercise 1
 const = ("Salman")
 print (f"Hello {const}")
